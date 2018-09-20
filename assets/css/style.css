@@ -1,0 +1,20 @@
+body {
+    background-image: url(../images/background-image-html.jpg)
+}
+
+.container {
+    background-image: url(../images/digimon-live-wallpaper-awesome-butterfly-digimon-adventure-tri-teaser-version-of-digimon-live-wallpaper.jpg)
+}
+
+.im {
+    max-width:15em;
+    max-height: 15em;
+}
+
+.ot1 {
+    text-shadow:
+		-1px -1px 0 white,
+		1px -1px 0 white,
+		-1px 1px 0 white,
+		1px 1px 0 white;
+}
