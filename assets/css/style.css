@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    background-image: url(../images/digimon-live-wallpaper-awesome-butterfly-digimon-adventure-tri-teaser-version-of-digimon-live-wallpaper.jpg)
+    background: url(../images/digimon-live-wallpaper-awesome-butterfly-digimon-adventure-tri-teaser-version-of-digimon-live-wallpaper.jpg) 0% 0% / cover no-repeat;
 }
 
 .im {
